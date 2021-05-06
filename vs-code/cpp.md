@@ -1,5 +1,4 @@
-# **Using GCC with MinGW**
-
+# <center><b> Using GCC with MinGW </b></center>
 
 
 ### **INSTALLATION:**
@@ -38,19 +37,19 @@ Add file and by using '+' option in explorer
 
 ### **Builling .cpp file:**
 
-- create a tasks.json
-- choose Terminal > Configure Default Build Task
-- select g++.exe build active file
+- create a `tasks.json`
+- choose `Terminal > Configure Default Build Task`
+- select `g++.exe` build active file
 
-This will create a tasks.json file in a .vscode folder and open it in the editor.
+This will create a `tasks.json` file in a .vscode folder and open it in the editor.
 
 
 
 ### **Running the build file---**
 
 * Go back to helloworld.cpp
-* To run the build task defined in tasks.json, press Ctrl+Shift+B ........or from the Terminal main menu choose Run Build Task.
+* To run the build task defined in tasks.json, press `Ctrl+Shift+B` ........or from the Terminal main menu choose Run Build Task.
 * Integrated Terminal panel appear below the source code editor
-* Create a new terminal using the + button
-* Run dir------ should now see the executable helloworld.exe
-* Run by typeing ------helloworld.exe
+* Create a new terminal using the `+` button
+* Run `dir` ------ should now see the executable helloworld.exe
+* Run by typeing ------ `helloworld.exe`
