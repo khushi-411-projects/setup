@@ -1,9 +1,9 @@
-### **Installation
+### **Installation**
 
 ![Screenshot (187)](https://user-images.githubusercontent.com/62256509/121091097-18b87480-c807-11eb-9aa6-6eedddaf9c20.png)
 
 
-### **Setting up Windows Environment Variables
+### **Setting up Windows Environment Variables**
 
 ![setup-pytorch](https://user-images.githubusercontent.com/62256509/121090891-dd1daa80-c806-11eb-8c25-17da0f0cffeb.png)
 
